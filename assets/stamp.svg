@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" fill="none">
+ <defs><path id="top" d="M21,74a49,49 0 1,1 98,0"/><path id="base" d="M18,75a52,52 0 0,0 104,0"/></defs>
+ <g stroke="#f4e7c9"><circle cx="70" cy="70" r="65" stroke-width="2"/><circle cx="70" cy="70" r="61" stroke-width=".7"/><circle cx="70" cy="70" r="36" stroke-dasharray="1.2 2.1"/></g>
+ <g fill="#f4e7c9" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold"><text font-size="11.9" letter-spacing="1.8"><textPath href="#top" startOffset="50%">AVIV CHARCUTERIE</textPath></text><text font-size="10" letter-spacing="1.7"><textPath href="#base" startOffset="50%">HANDCRAFTED</textPath></text></g>
+ <g fill="#f4e7c9"><circle cx="17" cy="74" r="2"/><circle cx="123" cy="74" r="2"/></g>
+ <g stroke="#f4e7c9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M49 81c10-1 20-10 25-24 3-9 17-5 14 5-4 16-19 32-36 35-10 1-12-14-3-16z"/><path d="m78 53 2-7 5 6m-34 45-2 5-5-6m28-33c3-1 6 0 8 3m-11 2c3 0 6 2 7 4m-11 1c3 0 5 2 6 4"/>
+ <path d="M46 72c-4-5 6-7 3-13m6 6c-3-4 5-8 2-13"/>
+ </g></svg>
